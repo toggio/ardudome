@@ -1,7 +1,7 @@
 ArduDome
 ========
 <b>Domotic with Arduino + RaspberryPI + PHP + JSON + jQuery.</b><br>
-Open source platform and browser-independent web based Arduino bidirectional remote control &amp; sensors. (Smartphone optizimized)<br>
+Opensource platform and browser-independent web based Arduino bidirectional remote control &amp; sensors. (Smartphone optizimized)<br>
 
 Quick Start
 -----------
@@ -18,6 +18,6 @@ Quick Start
 
 Enjoy!
 
-http://arduinoelettronica.wordpress.com
+http://www.arduinoelettronica.com
 
 by Luca Soltoggio

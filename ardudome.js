@@ -2,7 +2,7 @@
 
 ArduDome 0.9
 Domotic with Arduino + RaspberryPI + PHP + JSON + jQuery
-Platform and browser-independent web based Arduino bidirectional remote control & sensors
+Opensource platform and browser-independent web based Arduino bidirectional remote control & sensors
 by Luca Soltoggio
 15/03/2013
 http://arduinoelettronica.wordpress.com/
@@ -10,7 +10,7 @@ http://arduinoelettronica.wordpress.com/
 THIS IS JUST THE jQuery PART
 
 This script will call every 5 seconds the PHP script, udpating HTML with right values got from Arduino.
-I a slider would be clicked or touched, changing his value, the script will suddenly call PHP script giving
+If a slider would be clicked or touched, changing his value, the script will suddenly call PHP script giving
 PIN to change, and VALUE to set.
 
 */

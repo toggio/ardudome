@@ -4,7 +4,7 @@
 
 ArduDome 0.9
 Domotic with Arduino + RaspberryPI + PHP + JSON + jQuery
-Platform and browser-independent web based Arduino bidirectional remote control & sensors
+Opensource platform and browser-independent web based Arduino bidirectional remote control & sensors
 by Luca Soltoggio
 15/03/2013
 http://arduinoelettronica.wordpress.com/

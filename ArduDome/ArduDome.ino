@@ -2,14 +2,14 @@
 
 ArduDome 0.9
 Domotic with Arduino + RaspberryPI + PHP + JSON + jQuery
-Platform and browser-independent web based Arduino bidirectional remote control & sensors
+Opensource platform and browser-independent web based Arduino bidirectional remote control & sensors
 by Luca Soltoggio
 15/03/2013
 http://arduinoelettronica.wordpress.com/
 
 THIS IS JUST THE ARDUINO PART
 
-Don't forget to connect a 10μF capacitor between the RESET and GND lines!!!
+Don't forget to connect a 10uF capacitor between the RESET and GND lines!!!
 This sketch get a command from serial port and actvite/deactvate output or send value back.
 The command has to be 7 chars long and begin with "*CMD" and end with "/".
 Between "*CMD" and "/", you have to put the pin number (02, 03, 04, ..., A5, A6) followed by the action:
@@ -87,8 +87,3 @@ void loop() {
   }
 
 }
-
-
-
-
-
