@@ -16,9 +16,13 @@ boolean writeStatus(int pin, boolean value) {
   return value;
 }
 
-// read status of pins (digital and analog)
 int readStatus(int pin) {
-  if (pin<=13) return dpin[pin]; else return analogRead(pin);
+ if (pin<=13) {
+  dpin[pin] = digitalRead(pin);
+  return dpin[pin];  
+ }else{
+  return analogRead(pin);
+ }
 }
 
 // verify if a char is a number
