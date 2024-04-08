@@ -21,3 +21,9 @@ Enjoy!
 http://www.arduinoelettronica.com
 
 by Luca Soltoggio
+
+## Help us
+
+If you find this project useful and would like to support its development, consider making a donation. Any contribution is greatly appreciated!
+
+**Bitcoin (BTC) Address:** `3Ctmurhy18PmkTKPa2s7PjfAKzR8ZBj8Na`
